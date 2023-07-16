@@ -1,0 +1,9 @@
+.mw-emoji {
+  $size: 1.4em;
+  display: inline-block;
+  background-size: contain;
+  background: transparent no-repeat 50%;
+  vertical-align: middle;
+  width: $size;
+  height: $size;
+}
